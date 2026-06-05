@@ -36,7 +36,9 @@ public class SpiralMatrix {
                 left++;
             }
         }
+        return ans;
     }
 }
+
 
 
